@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">homeWork1</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="rem">Remember Me</string>
+    <string name="log">LOGIN IN</string>
+    <string name="sign">SIGN UP</string>
+    <string name="forget">FORGET PASSWORD</string>
+</resources>
